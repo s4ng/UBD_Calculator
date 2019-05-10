@@ -1,7 +1,7 @@
 import React from 'react';
 import './ubdcalTemplate.css';
 
-const ubdcalTemplate = ({form}) => {
+const ubdcalTemplate = ({form, result}) => {
     return(
         <main className="ubd-cal-template">
          <div className="title">
@@ -14,6 +14,9 @@ const ubdcalTemplate = ({form}) => {
          </section>
          <section className="cal-wrapper">
             {form}
+         </section>
+         <section className="res=wrapper">
+            {result}
          </section>
         </main>
     );
