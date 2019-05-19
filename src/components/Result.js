@@ -3,8 +3,8 @@ import './Result.css';
 
 const Result = ({value}) => {
   return (
-    <div className="form">
-      <input value={value} readOnly/>
+    <div className="form1">
+      <h2>= <input className="inputBox" value={value} readOnly/></h2>
     </div>
   );
 };
