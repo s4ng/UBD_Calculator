@@ -1,8 +1,7 @@
 import React from 'react';
 import './Form.css';
 
-const Form = ({value, onClick, onKeyPress}) => {
-
+const Form = ({value, onClick, onKeyPress}) => { 
   return (
     <div className="form">
       <input value={value} onKeyPress={onKeyPress}/>
@@ -10,7 +9,8 @@ const Form = ({value, onClick, onKeyPress}) => {
         변환
       </div>
     </div>
+  
   );
-};
+}
 
 export default Form;
