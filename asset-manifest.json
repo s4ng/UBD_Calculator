@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/UBD_Calculator/static/css/main.7409df12.chunk.css",
-    "main.js": "/UBD_Calculator/static/js/main.e3ec9294.chunk.js",
-    "main.js.map": "/UBD_Calculator/static/js/main.e3ec9294.chunk.js.map",
+    "main.css": "/UBD_Calculator/static/css/main.a3408546.chunk.css",
+    "main.js": "/UBD_Calculator/static/js/main.e8ec3f0c.chunk.js",
+    "main.js.map": "/UBD_Calculator/static/js/main.e8ec3f0c.chunk.js.map",
     "runtime~main.js": "/UBD_Calculator/static/js/runtime~main.d46eb315.js",
     "runtime~main.js.map": "/UBD_Calculator/static/js/runtime~main.d46eb315.js.map",
     "static/js/2.65aa1cca.chunk.js": "/UBD_Calculator/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/UBD_Calculator/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/UBD_Calculator/index.html",
-    "precache-manifest.c79491761d87f98bb49f82fd620e3600.js": "/UBD_Calculator/precache-manifest.c79491761d87f98bb49f82fd620e3600.js",
+    "precache-manifest.b233de7cbf29efc7868f192d8eb3645e.js": "/UBD_Calculator/precache-manifest.b233de7cbf29efc7868f192d8eb3645e.js",
     "service-worker.js": "/UBD_Calculator/service-worker.js",
-    "static/css/main.7409df12.chunk.css.map": "/UBD_Calculator/static/css/main.7409df12.chunk.css.map"
+    "static/css/main.a3408546.chunk.css.map": "/UBD_Calculator/static/css/main.a3408546.chunk.css.map"
   }
 }
