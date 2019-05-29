@@ -1,10 +1,10 @@
 import React from 'react';
 import './Form.css';
 
-const Form = ({value, onClick, onKeyPress}) => { 
+const Form = ({value, onClick}) => { 
   return (
     <div className="form">
-      <input value={value} onKeyPress={onKeyPress}/>
+      <input value={value}/>
       <div className="create-button" onClick={onClick}>
         변환
       </div>

@@ -5,13 +5,17 @@ import Result from './components/Result';
 
 
 class App extends Component {
+  state={
+    resultNum : 'sdsd0'
+  }
+
   render() {
     return (
       <div>
       <UbdcalTemplate form={<Form
       //Value={input} onClick={handleChange()} onKeyPress={handleKeyPress()}
       />}/>
-      <Result vaule={this.callBack}/>
+      <Result vaule={this.state.resultNum}/>
       </div>
     );
   }
