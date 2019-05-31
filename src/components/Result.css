@@ -1,6 +1,6 @@
 .form1{
     display:flex;
-    justify-content: center;
+    justify-content: left;
     background: white;
     width: 512px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); /* 그림자 */ 
@@ -8,10 +8,11 @@
     margin-top: 2rem;
 }
 
-.inputBox{
+.resultC{
     flex: 1; /* 버튼을 뺀 빈 공간을 모두 채워줍니다 */
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     outline: none;
     border: none;
     border-bottom: 1px solid #c5f6fa;
+    margin-left:10px;
 }
