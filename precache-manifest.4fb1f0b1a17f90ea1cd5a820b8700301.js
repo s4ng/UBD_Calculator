@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a55386609ef4cb38fac79a89dc7d9e2",
+    "revision": "91b8ef32fbbf804ca672b3e669b1fa33",
     "url": "/UBD_Calculator/index.html"
   },
   {
