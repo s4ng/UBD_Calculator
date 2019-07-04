@@ -5,7 +5,7 @@ const ubdcalTemplate = ({form, result}) => {
     return(
         <main className="ubd-cal-template">
          <div className="title">
-            엄복동 계산기
+            UBD 계산기
          </div>
          <section className="form-wrapper">
             <div className="disc">
