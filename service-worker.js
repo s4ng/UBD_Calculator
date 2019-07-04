@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UBD_Calculator/precache-manifest.4fb1f0b1a17f90ea1cd5a820b8700301.js"
+  "/UBD_Calculator/precache-manifest.2056e77709419aee7839c3df67f2ee52.js"
 );
 
 self.addEventListener('message', (event) => {
